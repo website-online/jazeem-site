@@ -527,7 +527,7 @@ button {
 
 .box_main {
     width: 100%;
-    border-radius: 100%;
+    /* border-radius: 100; */
     border: 6px solid #f5c729;
     height: auto;
     padding: 70px 0px;
@@ -753,7 +753,7 @@ button {
     width: 100%;
     float: left;
     font-size: 16px;
-    color: #000000;
+    color: black;
     text-align: center;
     margin-left: 0%;
 }
@@ -1058,7 +1058,7 @@ textarea#comment.massage-bt::placeholder {
     float: right;
     font-size: 16px;
     color: #fefefd;
-    background-color: #fa7e23;
+    background-color: #f5c729;
     padding: 14px;
     border-radius: 5px;
     text-align: center;
